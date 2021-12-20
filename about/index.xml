@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sofia Pinheiro</title>
-    <link>clumsysofs.github.io/</link>
-    <description>Recent content on Sofia Pinheiro</description>
+    <title>Abouts on Sofia Pinheiro</title>
+    <link>clumsysofs.github.io/about/</link>
+    <description>Recent content in Abouts on Sofia Pinheiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="clumsysofs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="clumsysofs.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>clumsysofs.github.io/about/about/</link>
@@ -15,15 +15,6 @@
       
       <guid>clumsysofs.github.io/about/about/</guid>
       <description>About me I&amp;rsquo;m 23</description>
-    </item>
-    
-    <item>
-      <title>My first ever post</title>
-      <link>clumsysofs.github.io/posts/2021/12/my-first-ever-post/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>clumsysofs.github.io/posts/2021/12/my-first-ever-post/</guid>
-      <description>Welcome my friends uma frase normal</description>
     </item>
     
   </channel>
